@@ -12,7 +12,7 @@ Members: Shreya Ranjan, Sneha Santra, Debamita Parya
 
 ## Documentation
 
-Link to our presentation that provides the basic idea of our project:
+Link to our presentation that provides the in depth idea of our project:
 
 (https://1drv.ms/p/s!AnWRHeT3-sTloBHdRqQiTTJCbFGk?e=gz1GKX)
 
