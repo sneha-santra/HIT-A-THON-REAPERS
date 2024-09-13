@@ -21,4 +21,4 @@ Link to our presentation that provides the in depth idea of our project:
 
 Figma
 
-Webflow
+HTML, CSS, JAVA SCRIPT
